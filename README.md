@@ -1,5 +1,7 @@
 ## Empathy: with an emphasis on the tech community
 
+[![Join the chat at https://gitter.im/FranklinChen/empathy-talk](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/FranklinChen/empathy-talk?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Presentation given for [Pittsburgh Code and Supply, April 15, 2015](http://www.meetup.com/Pittsburgh-Code-Supply/events/221553015/).
 
 ### Abstract
